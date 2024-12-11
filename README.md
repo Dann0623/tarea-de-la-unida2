@@ -1,4 +1,4 @@
-Alumno: valencia galan danna paola
+Alumna: valencia galan danna paola
 <br>
 Materia: Programacion 
 <br>
